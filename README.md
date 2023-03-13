@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-I am a passionate software engineer that loves to build.<br><br>Feel free to connect with me via message or on Linked In!
+I am a passionate software engineer that loves to build.<br><br>Feel free to connect with me via message or on LinkedIn!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/btran140)
 
 # 💻 Tech Stack:
