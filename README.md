@@ -51,3 +51,4 @@ I am a passionate software engineer that loves to build.<br><br>Feel free to con
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=btran140&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=btran140&theme=dark&hide_border=false)<br/>
